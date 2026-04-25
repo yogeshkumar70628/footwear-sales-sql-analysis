@@ -301,7 +301,7 @@ Based on SQL analysis, recommend:
 **Connect with me:**
 - 🔗 **LinkedIn**: https://www.linkedin.com/in/yogeshkumar-data-analyst/
 - 💻 **GitHub**: [github.com/yogeshkumar70628](https://github.com/yogeshkumar70628)
-- 📧 **Email**: yogesh.email@gmail.com
+- 📧 **Email**: yugalarya70628@gmail.com
 
 ---
 
